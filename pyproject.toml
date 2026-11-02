@@ -7,7 +7,14 @@ authors = [
     { name = "Ioanna Mouchlidi", email = "ioanna.mouchlidi@edu.em-lyon.com" }
 ]
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "ipykernel>=7.4.0",
+    "matplotlib>=3.11.2",
+    "pandas>=3.1.0",
+    "ruff>=0.17.3",
+    "scikit-learn>=1.9.1",
+    "streamlit>=1.66.1",
+]
 
 [project.scripts]
 mouch-course04-tuto-python = "mouch_course04_tuto_python:main"
