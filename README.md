@@ -5,7 +5,7 @@ A Python project for the emlyon business school Python programming course.
 ## Installation
 
 ```bash
-git clone https://github.com/imouchlidi/mouch_course04_tuto_python.git
+git clone https://github.com/emlyon-hids-python-2026/mouch_course04_tuto_python.git
 cd mouch_course04_tuto_python
 uv sync
 ```
